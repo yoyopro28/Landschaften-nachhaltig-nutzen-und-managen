@@ -1,0 +1,21 @@
+project:
+  name: Landschaften nachhaltig nutzen und managen
+  deadline: null
+  status: setup
+
+storage:
+  root: workspace
+  max_browser_upload_mb: 20
+
+important_files:
+  project_context: PROJECT.md
+  agent_rules: AGENTS.md
+  task_list: workspace/aufgaben/tasks.yaml
+  decisions: workspace/entscheidungen/
+  final_submission: workspace/05_endabgabe/
+
+rules:
+  - Originaldateien niemals überschreiben
+  - Neue unsortierte Dateien zuerst unter workspace/00_eingang ablegen
+  - Entscheidungen als datierte Markdown-Dateien dokumentieren
+  - Zu wichtigen Binärdateien eine maschinenlesbare Beschreibung anlegen

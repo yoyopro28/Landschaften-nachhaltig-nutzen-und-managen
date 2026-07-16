@@ -1,0 +1,10 @@
+name = "landschaften-dateiablage-api"
+main = "src/index.js"
+compatibility_date = "2026-07-16"
+
+[vars]
+GITHUB_REPOSITORY = "yoyopro28/Landschaften-nachhaltig-nutzen-und-managen"
+GITHUB_BRANCH = "main"
+ROOT_PATH = "workspace"
+ALLOWED_ORIGINS = "http://localhost:5173,https://yoyopro28.github.io"
+SESSION_HOURS = "12"

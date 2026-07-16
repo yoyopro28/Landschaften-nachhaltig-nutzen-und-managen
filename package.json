@@ -1,0 +1,15 @@
+{
+  "name": "group-hub",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "node --check src/main.js && node --check worker/src/index.js"
+  },
+  "devDependencies": {
+    "vite": "^7.0.4"
+  }
+}

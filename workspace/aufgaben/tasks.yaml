@@ -1,0 +1,11 @@
+tasks:
+  - id: setup-001
+    title: Projektziel und Abgabetermin ergänzen
+    owner: Joe
+    status: open
+    priority: high
+  - id: setup-002
+    title: Gruppenmitglieder und Rollen ergänzen
+    owner: Joe
+    status: open
+    priority: high
